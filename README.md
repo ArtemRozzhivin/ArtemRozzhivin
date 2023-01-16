@@ -1,11 +1,18 @@
-### Hi there 👋
+# Hi 👋, I'm Artem
+JavaScript Frontend developer from Ukraine
 
-<!--
-**ArtemRozzhivin/ArtemRozzhivin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me:
+My main area of expertise is web React JS. I have a great desire to learn new things in development, constantly improve my skills and create quality web products
 
-Here are some ideas to get you started:
+🍁 I’m looking to collaborate on any exciting opensource projects!
 
-- 🔭 I’m currently working on ...
+📫 You can reach me by writing an email artiomrozzhyvin@gmail.com
+
+
+<!-- ## Languages and Tools: -->
+
+
+<!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,4 +20,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
