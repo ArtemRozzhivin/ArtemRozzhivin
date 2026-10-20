@@ -1,32 +1,19 @@
-# Hi 👋, I'm Artem
-JavaScript Frontend developer from Ukraine
+# Hi, I'm Artem 👋
 
-## About me:
-* 🔭 I have a great desire to learn new things in development, constantly improve my skills and create quality web products.
+**Full-stack developer** building SaaS products, web apps and fast websites with **Next.js, React, Node.js, NestJS**.
 
-* 🍁 I’m looking to collaborate on any exciting opensource projects!
+As a Team Lead, every bug and every deadline was mine to answer for. I work the same way on every project: from database and API to a fast, polished UI, and all the way to production.
 
-* 📫 You can reach me by writing an email artiomrozzhyvin@gmail.com
+### What I work on
+- 🧩 **SaaS and web apps:** authentication and roles, dashboards, admin panels, Stripe payments, API integrations
+- ⚙️ **Backends and APIs:** REST APIs with NestJS and Express, PostgreSQL data modeling, Redis caching, Supabase
+- 🛠️ **Existing projects:** bug fixing, cleaning up messy or AI-generated code, getting apps ready for real users
+- ⚡ **Fast websites:** migrations to Astro or Next.js, headless CMS (Sanity, Prismic), Core Web Vitals and technical SEO
 
-## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/artem-rozzhyvin-710757259/)
+### Tech stack
+[![Stack](https://skillicons.dev/icons?i=ts,js,react,nextjs,astro,tailwind,nodejs,nestjs,express,postgres,redis,supabase,docker,githubactions,vercel,nginx)](https://skillicons.dev)
 
-## Languages and Tools:
-![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
-![GIT](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git)
-![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
-![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
-![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
-
-
-<!-- - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---> 
+### Work with me
+- 💼 Available for freelance projects on [Upwork](https://www.upwork.com/freelancers/~0137cc42871bcb6cd6)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/artem-rozzhyvin-710757259/)
+- 📫 artiomrozzhyvin@gmail.com
