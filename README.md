@@ -22,7 +22,6 @@ As a Team Lead, every bug and every deadline was mine to answer for. I work the 
 ### Work with me
 - 💼 Available for freelance projects on [Upwork](https://www.upwork.com/freelancers/~0137cc42871bcb6cd6)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/artem-rozzhyvin-710757259/)
-- 📫 artiomrozzhyvin@gmail.com
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=120&section=footer" />
